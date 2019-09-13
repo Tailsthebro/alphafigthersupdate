@@ -10,3 +10,8 @@
 /data/sun.png https://imgur.com/TpjAKHy
 /img/test.png https://imgur.com/r2txDzq
 <End of Version>
+
+
+<Version: 1.20>
+/img/here https://i.imgur.com/jdXkAY9.png
+<End of Version>
